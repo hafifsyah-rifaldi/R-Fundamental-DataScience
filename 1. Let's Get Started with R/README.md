@@ -15,3 +15,20 @@ Untuk menjawab permasalahan tersebut muncullah sebuah disiplin ilmu yang mempela
 Seseorang yang bekerja dengan dibekali ilmu data science dinamakan data scientist yang pada saat ini merupakan salah satu profesi paling hot menurut LinkedIn.
 
 Untuk membantu dalam pekerjaannya, data scientist perlu dibekali dengan aplikasi/kakas yang bagus. Bahasa pemrograman R dengan segala kekayaan di library (pustaka) yang dimilikinya merupakan jawaban bagi pekerjaan data scientist.
+
+# Mengapa Data Scientist menggunakan R?
+
+Apa yang sebenarnya membuat para data scientist tertarik belajar dan menggunakan R?
+
+Ada empat alasan utama, yaitu:
+
+- Lebih Mudah Dipelajari (Easier): R relatif lebih mudah dipelajari dibandingkan dengan bahasa lain, seperti Java, C#, Javascript, dan lain-lain.
+
+- Lebih Cepat (Faster): Banyak fungsi R memberikan hasil jauh lebih cepat dibandingkan dengan aplikasi lain.
+  Contoh: R dapat menghasilkan berbagai visualisasi yang menarik dalam waktu singkat, sehingga data scientist dapat jauh lebih produktif dalam memahami data dan menghasilkan informasi.
+
+- Lebih kaya fitur (Richer): Dengan puluhan ribu fitur yang terus berkembang, hampir semua permasalahan data dapat dijawab oleh R. Sebagai contoh, untuk mengatasi permasalahan optimasi stok di e-commerce, R memiliki fungsi menghasilkan rekomendasi product packaging.
+
+- Telah terbukti (Proven): R sudah digunakan oleh banyak data scientist perusahaan besar seperti Anz, Uber, dan Facebook dan memberikan solusi riil. Tidak heran jika akhirnya dari kisah sukses ini, banyak lowongan data scientist mencamtumkan R sebagai syarat keterampilan yang harus dimiliki.
+
+Berbekal alasan-alasan tersebut, kami yakin kamu akan lebih percaya diri dengan membekali diri belajar R!
