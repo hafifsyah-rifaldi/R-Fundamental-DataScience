@@ -32,3 +32,15 @@ Ada empat alasan utama, yaitu:
 - Telah terbukti (Proven): R sudah digunakan oleh banyak data scientist perusahaan besar seperti Anz, Uber, dan Facebook dan memberikan solusi riil. Tidak heran jika akhirnya dari kisah sukses ini, banyak lowongan data scientist mencamtumkan R sebagai syarat keterampilan yang harus dimiliki.
 
 Berbekal alasan-alasan tersebut, kami yakin kamu akan lebih percaya diri dengan membekali diri belajar R!
+
+# Kesimpulan
+
+Selamat, kamu telah menyelesaikan bab pertama dengan baik mengenai apa itu R, hubungannya dengan data science, dan mengapa data scientist menggunakannya sebagai kakas utama.
+
+Selain itu, kamu juga telah menguasai keterampilan dasar bahasa pemrograman R dengan beberapa praktik berikut:
+
+- Mengolah dan menampilkan data dengan perintah **_print_** ataupun mengetikkan langsung data tersebut.
+- Melakukan perhitungan matematika.
+- Memberikan komentar atau **_comment_** untuk memberi penjelasan pada _code_ di R.
+- Menyimpan angka, teks dan hasil perhitungan ke dalam **_variable_**, sehingga dapat digunakan pada bagian code lain.
+- Menjelaskan sifat R yang **_case sensitive_** yang membedakan penulisan dengan huruf besar dan/atau huruf kecil.
